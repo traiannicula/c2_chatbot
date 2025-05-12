@@ -29,7 +29,11 @@ public interface Chatbot {
                 - coordinates: an array containing longitute and latitude (eg. [26.035409, 44.404558]) of found location, null otherwise
                 - type: 'military'.
             g. Update map with the geocoding information in JSON format previously generated
-        3. Return the result as pure JSON array, made up from JSON objects previously created, without markdown formatting (no triple backticks, no labels). Only the raw JSON object.
+        3. Use this information to generate a user-friendly summary describing each unit's current status, location, and activity.
+            - Mention the unit name, and action.
+            - Include the location and geocoordinates where available.
+            - Format the result as a readable summary of ongoing military operations.
+        4. End with a sentence confirming that the map was updated with the extracted information.
 
         User input: {text}
                                                 """)
