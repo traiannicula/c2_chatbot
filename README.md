@@ -23,9 +23,6 @@ This article explores practical applications of generative AI in military Comman
 
 Originally published on [LinkedIn](https://www.linkedin.com/pulse/exploring-generative-ai-military-c2-systems-practical-traian-nicula-idf0f)
 
-
-A detailed description of the project can be found in this Linkedin article: **[Exploring Generative AI for Military C2 Systems: A Practical Approach](https://www.linkedin.com/pulse/exploring-generative-ai-military-c2-systems-practical-traian-nicula-idf0f)**
-
   
 
 ## Configutation
