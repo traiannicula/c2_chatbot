@@ -15,7 +15,16 @@ The application is built using the Quarkus Framework, leveraging its powerful ex
 
 For mapping functionality, the project uses the excellent OpenLayers JavaScript library <https://openlayers.org/> The map is rendered using OpenStreetMap (OSM) as the base tile layer, offering a clean and open-source-friendly solution.
 
-  A detailed description of the project can be found in this Linkedin article: **[Exploring Generative AI for Military C2 Systems: A Practical Approach](https://www.linkedin.com/pulse/exploring-generative-ai-military-c2-systems-practical-traian-nicula-idf0f)**
+## 📄 Article: Exploring Generative AI in Military C2 Systems
+
+This article explores practical applications of generative AI in military Command and Control systems.
+
+🔗 [Download the PDF](./files/Exploring Generative AI for Military C2 Systems_ A Practical Approach.pdf)
+
+Originally published on [LinkedIn](https://www.linkedin.com/pulse/exploring-generative-ai-military-c2-systems-practical-traian-nicula-idf0f)
+
+
+A detailed description of the project can be found in this Linkedin article: **[Exploring Generative AI for Military C2 Systems: A Practical Approach](https://www.linkedin.com/pulse/exploring-generative-ai-military-c2-systems-practical-traian-nicula-idf0f)**
 
   
 
