@@ -19,7 +19,7 @@ For mapping functionality, the project uses the excellent OpenLayers JavaScript 
 
 This article explores practical applications of generative AI in military Command and Control systems.
 
-🔗 [Download the PDF](./files/Exploring Generative AI for Military C2 Systems_ A Practical Approach.pdf)
+🔗 [Download the PDF](./files/Exploring_Generative_AI_for_Military_C2_Systems.pdf)
 
 Originally published on [LinkedIn](https://www.linkedin.com/pulse/exploring-generative-ai-military-c2-systems-practical-traian-nicula-idf0f)
 
